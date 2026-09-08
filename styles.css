@@ -111,16 +111,12 @@ p { margin-top: 0; }
   border-radius: 24px;
 }
 .profile-card { padding: 28px; }
-.avatar {
-  width: 88px;
-  height: 88px;
-  border-radius: 24px;
-  background: var(--accent);
-  color: #06121c;
-  display: grid;
-  place-items: center;
-  font-weight: 800;
-  font-size: 1.55rem;
+.avatar  {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
   margin-bottom: 26px;
 }
 .status { display: flex; align-items: center; gap: 9px; color: var(--muted); }
