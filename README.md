@@ -1,30 +1,16 @@
-# Omar Atef — Personal Portfolio
+# Omar Atef — Portfolio V4
 
-A static personal portfolio designed for free deployment on GitHub Pages.
+Primary positioning: Product Owner.
+Secondary capabilities: Product Management, Business Analysis, Digital Transformation.
 
-## Positioning
-**Product Owner | Digital Transformation & AI-Enabled Products**
+## Add your photo
+1. Use a professional vertical portrait, ideally 4:5.
+2. Recommended resolution: at least 800 x 1000 px.
+3. Rename it exactly `profile.jpg`.
+4. Upload it to the repository root beside `index.html`.
+5. Commit changes. No code edits needed.
 
-## Included
-- Responsive one-page portfolio
-- Real experience from Omar's CV
-- Featured projects / case studies
-- Skills and education
-- LinkedIn and email
-- `cv.pdf` included and linked
+If `profile.jpg` is missing, the site automatically shows `profile-placeholder.svg`.
 
-## Deploy for free on GitHub Pages
-1. Create a GitHub account.
-2. Create a PUBLIC repository named `YOURUSERNAME.github.io`.
-3. Upload all files from this folder to the repository root.
-4. Go to **Settings → Pages**.
-5. Choose **Deploy from a branch**.
-6. Select `main` and `/root`.
-7. Open `https://YOURUSERNAME.github.io`.
-
-## Next optional upgrades
-- Add a custom `.com` domain.
-- Add a professional headshot.
-- Add detailed case-study pages.
-- Add analytics.
-- Add a contact form.
+## Update GitHub Pages
+Upload/replace `index.html`, `styles.css`, `script.js`, `profile-placeholder.svg`, and `cv.pdf`, then add `profile.jpg`. GitHub Pages will redeploy automatically after the commit.
