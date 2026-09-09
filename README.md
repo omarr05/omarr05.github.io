@@ -27,3 +27,13 @@ Upload/replace `index.html`, `styles.css`, `script.js`, `profile-placeholder.svg
 ## V6 update
 - Removed graduation year from the Education section.
 - Removed the major from the Education section.
+
+
+## V7 Enhancements
+- Replaced “International Product Experience” with the more precise “Cross-Market Product Experience”.
+- Clarified the 7+ year professional journey vs 3+ years of product / BA experience.
+- Reduced services from six to four core offerings.
+- Added sector proof in the hero: Government, Fintech, SaaS, AI & Automation.
+- Reworked Featured Work into three deeper case studies: Lameh, CountBig, and Synworks.
+- Kept Al Rajhi Real Estate as a concise additional product snapshot.
+- Kept Product Management first in the website positioning.
