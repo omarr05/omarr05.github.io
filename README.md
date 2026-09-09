@@ -22,3 +22,8 @@ Upload/replace `index.html`, `styles.css`, `script.js`, `profile-placeholder.svg
 - Mobile number is shown with country code: +20 102 907 8194.
 - The website expects your real photo as `profile.png`.
 - Official employment titles remain unchanged.
+
+
+## V6 update
+- Removed graduation year from the Education section.
+- Removed the major from the Education section.
