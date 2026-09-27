@@ -1,30 +1,29 @@
-# Omar Atef — Personal Website
+# Omar Atef — Portfolio V4
 
-Static site served by GitHub Pages at [omar-atef.com](https://omar-atef.com).
-No build step — edit the files and commit.
+Primary positioning: Product Owner.
+Secondary capabilities: Product Management, Business Analysis, Digital Transformation.
 
-Positioning: Product Management first, then Product Owner and Business Analysis.
-Official employment titles are kept exactly as on the CV. Education shows the
-university and degree only (no graduation year or major).
+## Add your photo
+1. Use a professional vertical portrait, ideally 4:5.
+2. Recommended resolution: at least 800 x 1000 px.
+3. Rename it exactly `profile.png`.
+4. Upload it to the repository root beside `index.html`.
+5. Commit changes. No code edits needed.
 
-## Files
-| File | Purpose |
-| --- | --- |
-| `index.html` | All page content (hero, about, services, work, experience, skills, contact) |
-| `styles.css` | Design — light theme by default, dark theme via OS setting or the header toggle |
-| `script.js` | Mobile menu, theme toggle, scroll animations, active nav link |
-| `cv.pdf` | CV linked from the "Download CV" button |
-| `profile.webp` / `profile.jpg` | Optimized portrait (800 px wide) used on the page |
-| `profile.png` | Original full-size portrait (source file) |
-| `og-image.jpg` | 1200×630 preview shown when the link is shared on LinkedIn, WhatsApp, etc. |
-| `favicon.svg`, `apple-touch-icon.png` | Browser / home-screen icons |
-| `404.html`, `robots.txt`, `sitemap.xml`, `CNAME` | Pages / SEO / domain config |
+If `profile.png` is missing, the site automatically shows `profile-placeholder.svg`.
 
-## Changing your photo
-Use a vertical portrait (ideally 2:3 or 4:5, at least 800 px wide) and save it
-as both `profile.jpg` and `profile.webp` (any free converter such as
-squoosh.app works; aim for under ~150 KB). If the image is missing, the site
-falls back to `profile-placeholder.svg`.
+## Update GitHub Pages
+Upload/replace `index.html`, `styles.css`, `script.js`, `profile-placeholder.svg`, and `cv.pdf`, then add `profile.png`. GitHub Pages will redeploy automatically after the commit.
 
-## Updating the CV
-Replace `cv.pdf` with the new file (same name).
+
+## V5 updates
+- Product Management now appears before Product Owner in the website positioning.
+- International product experience is highlighted across Egypt, UAE, and Saudi Arabia.
+- Mobile number is shown with country code: +20 102 907 8194.
+- The website expects your real photo as `profile.png`.
+- Official employment titles remain unchanged.
+
+
+## V6 update
+- Removed graduation year from the Education section.
+- Removed the major from the Education section.
