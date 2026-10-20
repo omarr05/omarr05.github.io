@@ -27,3 +27,9 @@ Upload/replace `index.html`, `styles.css`, `script.js`, `profile-placeholder.svg
 ## V6 update
 - Removed graduation year from the Education section.
 - Removed the major from the Education section.
+
+
+## Natural-copy update
+- Rewrote hero, about, services, work and contact copy in plainer first-person wording, removed emojis and filler stats.
+- Fixed 28px horizontal overflow on phones, added favicon and Open Graph text tags (no share image yet).
+- Facts, links, dates and the six-service / four-project structure are unchanged.
