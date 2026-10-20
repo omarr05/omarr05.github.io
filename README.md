@@ -32,4 +32,5 @@ Upload/replace `index.html`, `styles.css`, `script.js`, `profile-placeholder.svg
 ## Natural-copy update
 - Rewrote hero, about, services, work and contact copy in plainer first-person wording, removed emojis and filler stats.
 - Fixed 28px horizontal overflow on phones, added favicon and Open Graph text tags (no share image yet).
+- Layout: replaced the dark card grids with a light editorial layout, plain lists for services, work and skills, new fonts and palette, removed section numbering. Added og-image.png.
 - Facts, links, dates and the six-service / four-project structure are unchanged.
